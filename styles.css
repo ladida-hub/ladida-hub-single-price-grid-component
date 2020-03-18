@@ -1,0 +1,81 @@
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 0;
+  padding-bottom: 0;
+
+}
+
+#intro {
+  color: hsl(218, 22%, 67%);
+  margin: 3% 10%;
+}
+
+
+h1, h2 {
+  font-weight: 700;
+}
+
+h1 {
+  color: hsl(179, 62%, 43%);
+}
+.normal-heading {font-weight: 400;
+font-size: 1.8rem;
+padding-top: 2%;}
+
+.btn{
+background-color: hsl(71, 73%, 54%);
+color: white;
+font-weight: 700;
+width: 95%;
+margin: 5% 5% 3% 0;
+padding: 3%;
+}
+
+.price {
+  font-size: 3rem;
+vertical-align: middle;
+padding: 1% 2% 1% 0;}
+
+.month {
+  color:hsl(204, 43%, 80%);
+
+}
+.description {
+  font-weight: 400;
+}
+
+.yellow-heading {
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+  padding: 2% 0 1%;
+}
+
+
+#price-features {
+  margin-bottom: 0;
+}
+.col {
+  padding: 3% 10%;
+}
+
+#col-left {
+  background-color: hsl(179, 62%, 43%);
+  color: white;
+}
+
+#col-right {
+  background-color: hsl(179, 82%, 43%);
+}
+
+.white-heading {
+  color: white;
+  padding-bottom: 5%;
+
+}
+.features {
+  color:hsl(204, 43%, 90%);
+  line-height: 0.7;
+}
